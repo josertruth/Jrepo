@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 700px;
+}
+
+#h1 {
+    font-size: 40px;
+    color: brown;
+    font-weight: 600;
+}
+
+#parrafo {
+    font-size: 30px;
+    color: tan;
+}
